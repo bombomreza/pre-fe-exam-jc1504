@@ -1,0 +1,50 @@
+{
+  "job": [
+    {
+      "data": "Full-Stack",
+      "id": 1
+    },
+    {
+      "data": "Back-End",
+      "id": 2
+    },
+    {
+      "data": "Front-End",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "category": "All"
+    },
+    {
+      "id": 1,
+      "category": "Front-End"
+    },
+    {
+      "id": 2,
+      "category": "Back-End"
+    },
+    {
+      "id": 3,
+      "category": "Full-Stack"
+    }
+  ],
+  "users": [
+    {
+      "nama": "Sasa",
+      "usia": "11",
+      "pekerjaan": "Full-Stack",
+      "categoryID": "3",
+      "id": 1
+    },
+    {
+      "nama": "Rara",
+      "usia": "22",
+      "pekerjaan": "Back-End",
+      "categoryID": "3",
+      "id": 2
+    }
+  ]
+}
